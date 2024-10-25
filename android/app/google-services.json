@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308390276763",
+    "project_id": "train-ticket-booking-app-e1926",
+    "storage_bucket": "train-ticket-booking-app-e1926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308390276763:android:15a712b6fafaab4c0d603e",
+        "android_client_info": {
+          "package_name": "com.example.train_ticket_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzRfO3lkuz727lw3AF7fRPzrUe9QyloY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
